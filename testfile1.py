@@ -1,7 +1,7 @@
 print("hello")
 
 x = "hello "
-y = "kevin"
+y = "kevin G"
 
 z = x + y
 print(z)
