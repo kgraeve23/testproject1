@@ -6,5 +6,7 @@ This line too
 and this line after staging
 and this lline too
 
+I added this line in gitHub repository
+
 This is the emergency fix to the main program
 This is branch addition
